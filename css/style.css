@@ -1,0 +1,24 @@
+#index{
+    background-image: url("../css/images/ToYou.jpg");
+}
+#i-love-you{
+    background-image: url("../css/images/ILoveYou.jpg");
+}
+#my-gf{
+    background-image: url("../css/images/MyGF.jpg");
+}
+p{
+    font-size: 72px;
+}
+.navbar-color{
+    background-color: #FF597B;
+    color: #F9B5D0;
+    font-size: 25px;
+}
+.navbar-color:hover{
+    color: #EEEEEE;
+}
+.nav-spacing{
+    margin-left: 200px;
+    margin-right: 200px;
+}
